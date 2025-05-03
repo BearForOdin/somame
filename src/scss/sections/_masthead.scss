@@ -18,7 +18,7 @@
         // SVG that sits behind the phone mockup
         .circle {
             position: absolute;
-            fill: url(#circleGradient);
+            fill: red;
             width: 70%;
             display: none;
 
@@ -37,7 +37,7 @@
             height: 1rem;
             width: 1rem;
             transform: rotate(-10deg);
-            fill: $primary;
+            fill: green;
 
             bottom: 15%;
             left: 10%;
